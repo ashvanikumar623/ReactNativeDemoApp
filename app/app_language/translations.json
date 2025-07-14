@@ -1,0 +1,18 @@
+{
+  "en": {
+    "productDesigner": "Product Designer",
+    "posts": "Posts",
+    "follower": "Follower",
+    "following": "Following",
+    "follow": "Follow",
+    "skills": "Skills",
+    "location_permission_error": "Location permission is not granted. If you can proceed without it, the location will not be set with the captured image.",
+    "checking_permissions": "Checking camera permissions...",
+    "camera_permission_error": "Camera permission is required to use this feature. Please enable it in your device settings.",
+    "no_camera": "This device doesn’t seem to have a camera. Camera features are unavailable.",
+    "take_picture": "Take Picture",
+    "capturing": "Capturing...",
+    "photo_captured": "Photo captured!",
+    "capture_failed": "Failed to capture photo."
+  }
+}
