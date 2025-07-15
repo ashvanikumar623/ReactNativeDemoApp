@@ -25,6 +25,14 @@ This project is a simple web or mobile application that allows users to:
 
 ---
 
+## Version
+  - Node : 20.19.3
+  - NPM : 10.8.2
+  - React Native Cli: 2.0.1
+  - React Native: 0.80.1
+
+---
+
 ## 📦 How to Use
 
 1. Open the app in mobile environment.
